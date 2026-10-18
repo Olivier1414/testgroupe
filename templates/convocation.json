@@ -1,0 +1,7 @@
+{
+    "titre": "CONVOCATION OFFICIELLE",
+    "sous_titre": "Convocation administrative",
+    "corps": "À l'attention de : {{ civilite }} {{ prenom }} {{ nom }}\n\nVous êtes prié(e) de bien vouloir vous présenter le {{ date }} afin de prendre part à :\n« {{ motif if motif else 'Assemblée générale' }} ».\n\nLieu de rendez-vous : Siège administratif / Salle de réunion principale.\n\nNous vous remercions de vous munir de la présente convocation ainsi que d'une pièce d'identité en cours de validité.\nEn cas d'empêchement, merci de nous prévenir au plus tôt à l'adresse contact habituelle.",
+    "signature_titre": "Le Secrétariat Général",
+    "pied_page_texte": "Merci de confirmer votre présence dès réception de cette convocation."
+}

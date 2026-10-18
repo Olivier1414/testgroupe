@@ -1,0 +1,7 @@
+{
+    "titre": "REÇU DE PAIEMENT",
+    "sous_titre": "Justificatif de règlement financier",
+    "corps": "Reçu de : {{ civilite }} {{ prenom }} {{ nom }}\nAdresse électronique : {{ email if email else 'Non communiquée' }}\n\nLa somme forfaitaire de : {{ montant if montant else '0.00' }} €\nObjet du versement : {{ motif if motif else 'Cotisation / Règlement' }}\nDate d'encaissement : {{ date }}\n\nMode de règlement : Carte bancaire / Virement\nNuméro de reçu : {{ numero }}\n\nLe présent reçu est délivré pour servir de justificatif comptable et fiscal.",
+    "signature_titre": "Le Service Comptabilité",
+    "pied_page_texte": "Reçu délivré conformément aux obligations comptables en vigueur."
+}

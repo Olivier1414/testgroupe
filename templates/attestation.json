@@ -1,0 +1,7 @@
+{
+    "titre": "ATTESTATION DE PARTICIPATION",
+    "sous_titre": "Attestation officielle de présence et de suivi",
+    "corps": "Je soussigné(e), représentant de la direction, certifie par la présente que :\n\n{{ civilite }} {{ prenom }} {{ nom }}\n(Contact : {{ email if email else 'Non renseigné' }})\n\na participé avec assiduité et succès à la session suivante :\n« {{ motif if motif else 'Formation professionnelle' }} ».\n\nDate de réalisation : {{ date }}\nNuméro de référence : {{ numero }}\n\nLa présente attestation est délivrée à l'intéressé(e) pour servir et valoir ce que de droit.",
+    "signature_titre": "La Direction Générale",
+    "pied_page_texte": "Document officiel émis avec numérotation unique vérifiable."
+}

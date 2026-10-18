@@ -1,0 +1,2 @@
+Projet : Générateur de Documents Automatisés
+Consultez le fichier README.md pour démarrer l'application.

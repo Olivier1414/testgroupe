@@ -1,0 +1,6 @@
+type_document;civilite;nom;prenom;email;date;motif;montant;note
+attestation;Mme;Martin;Sophie;sophie.martin@email.fr;15/10/2026;Formation Python et bureautique;0.00;18
+recu;M.;Bernard;Thomas;t.bernard@example.com;16/10/2026;Cotisation annuelle d'adhésion;150.00;
+convocation;Mme;Dubois;Claire;claire.dubois@mail.com;25/11/2026;Assemblée générale annuelle;0.00;
+bulletin;M.;Lefebvre;Lucas;lucas.lefebvre@etudiant.fr;18/10/2026;Algorithmique et automatisation;0.00;17.5
+attestation;M.;Moreau;Antoine;antoine.moreau@domaine.com;17/10/2026;Stage pratique en développement;0.00;16

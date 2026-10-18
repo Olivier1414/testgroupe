@@ -1,0 +1,7 @@
+{
+    "titre": "BULLETIN D'ÉVALUATION",
+    "sous_titre": "Relevé de résultats et d'appréciations",
+    "corps": "Bénéficiaire : {{ civilite }} {{ prenom }} {{ nom }}\nIntitulé de l'évaluation : {{ motif if motif else 'Évaluation de fin de période' }}\nDate de l'évaluation : {{ date }}\n\nRésultats obtenus :\n- Note finale : {{ note if note else 'N/A' }} / 20\n\nAppréciation générale de l'équipe pédagogique :\nExcellent travail et investissement sérieux tout au long de la période.\nLes compétences requises ont été validées avec succès.",
+    "signature_titre": "Le Responsable Pédagogique",
+    "pied_page_texte": "Relevé officiel certifié par le jury d'évaluation."
+}
